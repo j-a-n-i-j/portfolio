@@ -1,12 +1,12 @@
 # DATA SCIENTIST
 
-###EDUCATION
+## EDUCATION
 Int MSc Datascience (2021-2026)
 
-###WORK EXPERIENCE
+## WORK EXPERIENCE
 Datascience intern at Null Class
 
-###PROJECTS
+## PROJECTS
 Emotion detection using images
 Sign language detection using images
 Spam Classification
