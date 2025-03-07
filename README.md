@@ -1,4 +1,4 @@
-# Welcome to My Portfolio 🚀
+# JANI J - Data Science | Machine Learning | AI | Big Data 🚀
 
 👋 Hi, I'm **Jani J**, an aspiring **Data Scientist** passionate about Machine Learning, Data Analysis, and AI. This portfolio showcases my projects, skills, and experiences in the field of data science.
 
