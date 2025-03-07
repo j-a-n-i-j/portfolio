@@ -26,4 +26,4 @@
 ## 📫 Connect with Me
 📧 Email: [janijjayam@gmail.com](mailto:janijjayam@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/jani-j-a3a868258](https://www.linkedin.com/in/jani-j-a3a868258)  
-🌐 Portfolio: [j-a-n-i-j/github.io/portfolio]  
+🌐 Portfolio: [[j-a-n-i-j/github.io/portfolio](https://j-a-n-i-j.github.io/portfolio/)]  
